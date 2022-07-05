@@ -3,18 +3,16 @@
     "NAME" : "English",
     
     "APP" : {
-
-        "NAME"    : "Apache Guacamole",
-        "VERSION" : "${project.version}",
-
-        "ACTION_ACKNOWLEDGE"        : "OK",
-        "ACTION_CANCEL"             : "Cancel",
-        "ACTION_CLONE"              : "Clone",
-        "ACTION_CONTINUE"           : "Continue",
-        "ACTION_DELETE"             : "Delete",
-        "ACTION_DELETE_SESSIONS"    : "Kill Sessions",
-        "ACTION_DOWNLOAD"           : "Download",
-        "ACTION_LOGIN"              : "Login",
+        "NAME": "堡壘🐣",
+        "VERSION": "${project.version}",
+        "ACTION_ACKNOWLEDGE": "OK",
+        "ACTION_CANCEL": "Cancel",
+        "ACTION_CLONE": "Clone",
+        "ACTION_CONTINUE": "Continue",
+        "ACTION_DELETE": "Delete",
+        "ACTION_DELETE_SESSIONS": "Kill Sessions",
+        "ACTION_DOWNLOAD": "Download",
+        "ACTION_LOGIN": "Login",
         "ACTION_LOGIN_AGAIN"        : "Re-login",
         "ACTION_LOGOUT"             : "Logout",
         "ACTION_MANAGE_CONNECTIONS" : "Connections",
