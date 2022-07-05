@@ -4,7 +4,7 @@
     
     "APP" : {
 
-        "NAME"    : "堡壘🐣",
+        "NAME"    : "Apache Guacamole",
         "VERSION" : "${project.version}",
 
         "ACTION_ACKNOWLEDGE"        : "OK",
